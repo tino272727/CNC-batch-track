@@ -202,7 +202,6 @@ Each production batch contains:
 - Batch Status
 - Production Timestamp
 - Product Type 
-- Quality Status
 
 The system enables:
 
