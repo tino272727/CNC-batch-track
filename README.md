@@ -163,7 +163,7 @@ Data may be obtained through:
 
 ---
 
-## 5.2 ## Overall Equipment Effectiveness (OEE)
+## 5.2  Overall Equipment Effectiveness (OEE)
 
 ### Availability
 $$
@@ -190,10 +190,18 @@ Each production batch contains:
 
 - Batch ID
 - Machine ID
-- Operator ID
+- Employee ID
 - Tool ID
+- Employee Name
+- Expected Time Minutes
+- Start Time
+- End Time
+- Actual Duration Minutes
+- Delay Minutes
+- Inspection Status
+- Batch Status
 - Production Timestamp
-- Quantity Produced
+- Product Type 
 - Quality Status
 
 The system enables:
