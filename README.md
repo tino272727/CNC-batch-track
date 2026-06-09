@@ -163,38 +163,27 @@ Data may be obtained through:
 
 ---
 
-## 5.2 OEE Analytics Module
-
-The system calculates:
+## 5.2 ## Overall Equipment Effectiveness (OEE)
 
 ### Availability
-
-\[
+$$
 Availability = \frac{Operating\ Time}{Planned\ Production\ Time}
-\]
+$$
 
 ### Performance
-
-\[
+$$
 Performance = \frac{Ideal\ Cycle\ Time \times Total\ Count}{Operating\ Time}
-\]
+$$
 
 ### Quality
-
-\[
+$$
 Quality = \frac{Good\ Parts}{Total\ Parts}
-\]
+$$
 
-### Overall Equipment Effectiveness
-
-\[
+### OEE
+$$
 OEE = Availability \times Performance \times Quality
-\]
-
-The system continuously updates OEE values and visualizes performance trends.
-
----
-
+$$
 ## 5.3 Batch Traceability Module
 
 Each production batch contains:
